@@ -1,12 +1,8 @@
 {
-  "last_updated": "05:50:33 AM 10-10-2026",
-  "live_matches": 5,
+  "last_updated": "05:51:42 AM 10-10-2026",
+  "live_matches": 4,
   "upcoming_matches": 103,
   "live": [
-    {
-      "id": 316279,
-      "name": "WTA 1000 Beijing, Day 11, Capital Group Diamond, Semi-Final 2"
-    },
     {
       "id": 316307,
       "name": "Arsenal - Leeds"
@@ -25,6 +21,10 @@
     }
   ],
   "upcoming": [
+    {
+      "id": 316279,
+      "name": "WTA 1000 Beijing, Day 11, Capital Group Diamond, Semi-Final 2"
+    },
     {
       "id": 316288,
       "name": "Singapore Grand Prix - Qualifying"
@@ -68,10 +68,6 @@
     {
       "id": 316292,
       "name": "Alaves - Atletico Madrid"
-    },
-    {
-      "id": 316329,
-      "name": "Inter - Parma"
     },
     {
       "id": 316306,
