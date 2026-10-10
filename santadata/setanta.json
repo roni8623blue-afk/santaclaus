@@ -1,0 +1,420 @@
+{
+  "last_updated": "03:38:30 AM 10-10-2026",
+  "live_matches": 0,
+  "upcoming_matches": 103,
+  "live": [],
+  "upcoming": [
+    {
+      "id": 316279,
+      "name": "WTA 1000 Beijing, Day 11, Capital Group Diamond, Semi-Final 2"
+    },
+    {
+      "id": 316307,
+      "name": "Arsenal - Leeds"
+    },
+    {
+      "id": 316299,
+      "name": "West Brom - Birmingham"
+    },
+    {
+      "id": 316290,
+      "name": "Rayo Vallecano - Athletic Bilbao"
+    },
+    {
+      "id": 316288,
+      "name": "Singapore Grand Prix - Qualifying"
+    },
+    {
+      "id": 316328,
+      "name": "Genoa - Fiorentina"
+    },
+    {
+      "id": 316309,
+      "name": "Augsburg - Bayern Munich"
+    },
+    {
+      "id": 316463,
+      "name": "Hoffenheim - Hamburg"
+    },
+    {
+      "id": 316464,
+      "name": "Paderborn - Stuttgart"
+    },
+    {
+      "id": 316465,
+      "name": "Union Berlin - Elversberg"
+    },
+    {
+      "id": 316317,
+      "name": "Mainz - Bayer Leverkusen"
+    },
+    {
+      "id": 316315,
+      "name": "Ipswich - Fulham"
+    },
+    {
+      "id": 316306,
+      "name": "ATP 1000 Shanghai, Day 5, Stadium Court, Match 1"
+    },
+    {
+      "id": 316272,
+      "name": "Como - Roma"
+    },
+    {
+      "id": 316303,
+      "name": "Southampton - Portsmouth"
+    },
+    {
+      "id": 316281,
+      "name": "WTA 1000 Beijing, Day 12, Capital Group Diamond, Final"
+    },
+    {
+      "id": 316635,
+      "name": "Elche - Celta Vigo"
+    },
+    {
+      "id": 316291,
+      "name": "Singapore Grand Prix - Race"
+    },
+    {
+      "id": 316330,
+      "name": "Lazio - Monza"
+    },
+    {
+      "id": 316331,
+      "name": "Lecce - Bologna"
+    },
+    {
+      "id": 316322,
+      "name": "Crystal Palace - Nottingham"
+    },
+    {
+      "id": 316323,
+      "name": "Hull - Everton"
+    },
+    {
+      "id": 316314,
+      "name": "Nice - Strasbourg"
+    },
+    {
+      "id": 316324,
+      "name": "FC Koln - Borussia Monchengladbach"
+    },
+    {
+      "id": 316332,
+      "name": "Atalanta - Venezia"
+    },
+    {
+      "id": 316287,
+      "name": "Torino - Udinese"
+    },
+    {
+      "id": 316298,
+      "name": "Levante - Sevilla"
+    },
+    {
+      "id": 316327,
+      "name": "Coventry - Newcastle"
+    },
+    {
+      "id": 316638,
+      "name": "Lens - Sporting"
+    },
+    {
+      "id": 316639,
+      "name": "Sabah Baku - Slavia Prague"
+    },
+    {
+      "id": 316653,
+      "name": "Fenerbahce - Zalgiris Kaunas"
+    },
+    {
+      "id": 316658,
+      "name": "Barcelona - Maccabi Tel Aviv"
+    },
+    {
+      "id": 316659,
+      "name": "Partizan Mozzart Bet - Panathinaikos"
+    },
+    {
+      "id": 316664,
+      "name": "Stoke - Middlesbrough"
+    },
+    {
+      "id": 316640,
+      "name": "Arsenal - Lille"
+    },
+    {
+      "id": 316642,
+      "name": "Inter - Club Brugge"
+    },
+    {
+      "id": 316646,
+      "name": "Multiview"
+    },
+    {
+      "id": 316643,
+      "name": "RB Leipzig - PSV"
+    },
+    {
+      "id": 316644,
+      "name": "Viking - Bayern Munich"
+    },
+    {
+      "id": 316645,
+      "name": "Villarreal - Napoli"
+    },
+    {
+      "id": 316661,
+      "name": "Hapoel Tel Aviv - Besiktas"
+    },
+    {
+      "id": 316647,
+      "name": "Feyenoord - Como"
+    },
+    {
+      "id": 316648,
+      "name": "LASK - Liverpool"
+    },
+    {
+      "id": 316650,
+      "name": "Aston Villa - Fenerbahce"
+    },
+    {
+      "id": 316652,
+      "name": "Bodo/Glimt - Borussia Dortmund"
+    },
+    {
+      "id": 316654,
+      "name": "Manchester City - Paris SG"
+    },
+    {
+      "id": 316657,
+      "name": "Multiview"
+    },
+    {
+      "id": 316651,
+      "name": "Real Betis - Porto"
+    },
+    {
+      "id": 316649,
+      "name": "Roma - Real Madrid"
+    },
+    {
+      "id": 316655,
+      "name": "Shakhtar Donetsk - AEK Athens"
+    },
+    {
+      "id": 316656,
+      "name": "Slovan Bratislava - Stuttgart"
+    },
+    {
+      "id": 316672,
+      "name": "ATP 1000 Shanghai, Day 9, Stadium Court, Quarter-Final 1"
+    },
+    {
+      "id": 316674,
+      "name": "ATP 1000 Shanghai, Day 9, Stadium Court, Quarter-Final 2"
+    },
+    {
+      "id": 316660,
+      "name": "Lyon - Crystal Palace"
+    },
+    {
+      "id": 316750,
+      "name": "Multiview"
+    },
+    {
+      "id": 316662,
+      "name": "Salzburg - Milan"
+    },
+    {
+      "id": 316663,
+      "name": "Torreense - Sunderland"
+    },
+    {
+      "id": 316666,
+      "name": "Fenerbahce - Partizan Mozzart Bet"
+    },
+    {
+      "id": 316682,
+      "name": "Al Ahli SC - Al Nassr"
+    },
+    {
+      "id": 316665,
+      "name": "Benfica - Celtic"
+    },
+    {
+      "id": 316669,
+      "name": "Celta Vigo - Juventus"
+    },
+    {
+      "id": 316670,
+      "name": "Marseille - Olympiacos Piraeus"
+    },
+    {
+      "id": 316671,
+      "name": "Multiview"
+    },
+    {
+      "id": 316683,
+      "name": "WTA 1000 Wuhan, Day 5, Center Court, Quarter-Final 1"
+    },
+    {
+      "id": 316687,
+      "name": "WTA 1000 Wuhan, Day 5, Center Court, Quarter-Final 2"
+    },
+    {
+      "id": 316676,
+      "name": "ATP 1000 Shanghai, Day 10, Stadium Court, Quarter-Final 3"
+    },
+    {
+      "id": 316689,
+      "name": "WTA 1000 Wuhan, Day 5, Center Court, Quarter-Final 3"
+    },
+    {
+      "id": 316677,
+      "name": "ATP 1000 Shanghai, Day 10, Stadium Court, Quarter-Final 4"
+    },
+    {
+      "id": 316691,
+      "name": "WTA 1000 Wuhan, Day 5, Center Court, Quarter-Final 4"
+    },
+    {
+      "id": 316684,
+      "name": "Al Riyadh - Al Hilal"
+    },
+    {
+      "id": 316685,
+      "name": "Holstein Kiel - Hertha Berlin"
+    },
+    {
+      "id": 316690,
+      "name": "Eintracht Frankfurt - FC Koln"
+    },
+    {
+      "id": 316668,
+      "name": "Barcelona - Olympiacos"
+    },
+    {
+      "id": 316695,
+      "name": "Frosinone - Sassuolo"
+    },
+    {
+      "id": 316708,
+      "name": "Dep. A Coruna - Levante"
+    },
+    {
+      "id": 316721,
+      "name": "PFL Chicago: Carmouche vs. Bishop 2"
+    },
+    {
+      "id": 316678,
+      "name": "ATP 1000 Shanghai, Day 11, Stadium Court, Semi-Final 1"
+    },
+    {
+      "id": 316697,
+      "name": "WTA 1000 Wuhan, Day 6, Center Court, Semi-Final 1"
+    },
+    {
+      "id": 316700,
+      "name": "WTA 1000 Wuhan, Day 6, Center Court, Semi-Final 2"
+    },
+    {
+      "id": 316688,
+      "name": "Wolfsburg - Heidenheim"
+    },
+    {
+      "id": 316679,
+      "name": "ATP 1000 Shanghai, Day 11, Stadium Court, Semi-Final 2"
+    },
+    {
+      "id": 316725,
+      "name": "Everton - Chelsea"
+    },
+    {
+      "id": 316680,
+      "name": "Watford - Charlton"
+    },
+    {
+      "id": 316710,
+      "name": "Espanyol - Atletico Madrid"
+    },
+    {
+      "id": 316724,
+      "name": "RKENA X PFL"
+    },
+    {
+      "id": 316709,
+      "name": "Venezia - Napoli"
+    },
+    {
+      "id": 316692,
+      "name": "Elversberg - Augsburg"
+    },
+    {
+      "id": 316681,
+      "name": "ATP 1000 Shanghai, Day 12, Stadium Court, Final"
+    },
+    {
+      "id": 316701,
+      "name": "Udinese - Lecce"
+    },
+    {
+      "id": 316705,
+      "name": "WTA 1000 Wuhan, Day 7, Center Court, Final"
+    },
+    {
+      "id": 316714,
+      "name": "Osasuna - Racing Santander"
+    },
+    {
+      "id": 316737,
+      "name": "Bournemouth - Sunderland"
+    },
+    {
+      "id": 316731,
+      "name": "Angers - Marseille"
+    },
+    {
+      "id": 316740,
+      "name": "Leeds - Manchester United"
+    },
+    {
+      "id": 316704,
+      "name": "Fiorentina - Como"
+    },
+    {
+      "id": 316739,
+      "name": "Brighton - Crystal Palace"
+    },
+    {
+      "id": 316702,
+      "name": "Bayer Leverkusen - Freiburg"
+    },
+    {
+      "id": 316715,
+      "name": "Celta Vigo - Alaves"
+    },
+    {
+      "id": 316722,
+      "name": "Granada - Cadiz"
+    },
+    {
+      "id": 316686,
+      "name": "Al Hilal - Al Hazem"
+    },
+    {
+      "id": 316723,
+      "name": "Parma - Torino"
+    },
+    {
+      "id": 316742,
+      "name": "Tottenham - Coventry"
+    },
+    {
+      "id": 316720,
+      "name": "Getafe - Rayo Vallecano"
+    }
+  ]
+}
