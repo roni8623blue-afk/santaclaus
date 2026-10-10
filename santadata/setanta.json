@@ -1,7 +1,7 @@
 {
-  "last_updated": "05:56:14 AM 10-10-2026",
+  "last_updated": "05:57:34 AM 10-10-2026",
   "live_matches": 4,
-  "upcoming_matches": 104,
+  "upcoming_matches": 103,
   "live": [
     {
       "id": 316307,
@@ -21,10 +21,6 @@
     }
   ],
   "upcoming": [
-    {
-      "id": 316279,
-      "name": "WTA 1000 Beijing, Day 11, Capital Group Diamond, Semi-Final 2"
-    },
     {
       "id": 316288,
       "name": "Singapore Grand Prix - Qualifying"
